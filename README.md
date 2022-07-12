@@ -1,4 +1,5 @@
-# frt
+# AZURE LINK : https://orange-mud-0354dac10.1.azurestaticapps.net
+
 ![image](https://user-images.githubusercontent.com/88330517/178455143-0ee04352-9f4e-47e6-aad1-b23232eb0530.png)
 
 ![image](https://user-images.githubusercontent.com/88330517/178455230-59f75052-615d-4013-baad-14904a7b9f5f.png)
