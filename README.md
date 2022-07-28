@@ -1,6 +1,6 @@
 # AZURE LINK : https://orange-mud-0354dac10.1.azurestaticapps.net
 
-This is a Webpage developed using HTML & CSS as part of FUTURE READY TALENT Internship Project & implementing Microsoft Azure Services like The Static Webapp to deploy the website and QnA makers to answers the queries of the consumers.
+This is a Webpage developed using HTML & CSS as part of FUTURE READY TALENT Internship Project & implementing Microsoft Azure Services like The Static Webapp to deploy the website and QnA makers to answers the queries of the consumers. Visualizing importance of Farming solutions Worldwide for Environment & sustainability through advanced scientific technologies that are avaliable in the market.
 
 ![image](https://user-images.githubusercontent.com/88330517/178455143-0ee04352-9f4e-47e6-aad1-b23232eb0530.png)
 
